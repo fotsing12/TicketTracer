@@ -37,7 +37,7 @@ TicketTracer lets you create, update, and manage tickets with status badges, sta
 
 ## 🎥 Demo
 
-[▶️ Watch the demo video](assets/TicketTracerDemo.mp4)
+[▶️ Watch the demo video](assets/screenshots/TicketTracerDemo.mp4)
 
 ---
 
