@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# 🎟️ TicketTracer
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern **React Native** app built with **Expo**, designed to help you **track, edit, and rate support tickets** easily.
+TicketTracer lets you create, update, and manage tickets with status badges, star ratings, and a clean UI.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 📝 **Add Tickets** — Quickly create new tickets with title and description.
+- 🛠️ **Edit Tickets** — Update ticket details and change their status (Created, Under Assistance, Completed).
+- 🚮 **Delete Tickets** — Remove unwanted tickets in one tap.
+- ⭐ **Rate Tickets** — Interactive 5-star rating system with smooth feedback.
+- 🎨 **Modern UI** — Clean and responsive design using React Native components and icons.
+- 💾 **State Management** — Local state handled via React hooks (`useState`).
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🧩 Tech Stack
 
-In the output, you'll find options to open the app in a
+| Technology | Description |
+|-------------|-------------|
+| ⚛️ React Native | Core framework for cross-platform mobile development |
+| 🚀 Expo | Simplifies development and testing |
+| 🧭 TypeScript | Strong typing and cleaner code |
+| 🎨 Vector Icons | Icons from `@expo/vector-icons` (Feather, AntDesign, Entypo) |
+| 📦 @react-native-picker/picker | For ticket status dropdown |
+| 🧱 React Native Safe Area Context | Handles notches and safe areas |
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📸 Screenshots
 
-## Get a fresh project
+| Home Screen | Add/Edit Modal | Rating Stars |
+|--------------|----------------|---------------|
+| ![Home](assets/screenshots/home.png) | ![Modal](assets/screenshots/modal.png) | ![Stars](assets/screenshots/rating.png) |
 
-When you're ready, run:
+> *(You can replace the image paths with your actual screenshot filenames in an `assets/screenshots/` folder.)*
 
+---
+
+## 🧰 Installation & Setup
+
+### 1️⃣ Clone the repository
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/TicketTracer.git
+cd TicketTracer
