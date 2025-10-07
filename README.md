@@ -33,7 +33,7 @@ TicketTracer lets you create, update, and manage tickets with status badges, sta
 
 | Home Screen | Add/Edit Modal | Rating Stars |
 |--------------|----------------|---------------|
-| ![Home](assets/screenshots/home.png) | ![Modal](assets/screenshots/modal.png) | ![Stars](assets/screenshots/rating.png) |
+| ![Home](assets/screenshots/ticket.jpg) | ![Modal](assets/screenshots/modal.jpg) | ![Stars](assets/screenshots/stars.jpg) |
 
 > *(You can replace the image paths with your actual screenshot filenames in an `assets/screenshots/` folder.)*
 
