@@ -35,8 +35,6 @@ TicketTracer lets you create, update, and manage tickets with status badges, sta
 |--------------|----------------|---------------|
 | ![Home](assets/screenshots/ticket.jpg) | ![Modal](assets/screenshots/modal.jpg) | ![Stars](assets/screenshots/stars.jpg) |
 
-> *(You can replace the image paths with your actual screenshot filenames in an `assets/screenshots/` folder.)*
-
 ## 🎥 Demo
 
 [▶️ Watch the demo video](assets/demo.mp4)
